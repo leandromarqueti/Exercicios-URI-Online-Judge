@@ -1,3 +1,5 @@
+#2452	Semente
+
 #Um experimento biológico utiliza uma fita de papel branco especial, na qual algumas gotas de um reagente são colocadas em posições específicas. Inicialmente a 
 #gota de reagente faz com que o papel se torne preto na posição em que foi colocada. A cada dia o reagente se propaga pelo papel, em todas as direções, com 
 #velocidade de 1 posição por dia, colorindo a região em que o reagente se propagou. A figura abaixo mostra um experimento com uma fita de 13 posições, com 
